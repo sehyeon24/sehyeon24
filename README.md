@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=sehyeon's%20GitHub)
+![github-cat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 # LINK
 ### 공부일지 <a href="https://github.com/sehyeon24/ai"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
